@@ -1,5 +1,18 @@
 # Foreign_Direct_Investment_Analysis
 
+FDI refers to the residential investment made by a company or government of one country in a business or project of another country. It is related to portfolio investment but differs from it in the sense that it is not only the purchase of stocks and bonds. FDI involves a long-term commitment and oftentimes some level of control over the foreign entity.
+
+The reasons FDI is vital for economic growth are:
+
+* **Capital Inflow**
+* **Job Creation**
+* **Technology Transfer**
+* **Increase in Exports**
+* **Tax Revenue**
+
+Overall, FDI can be a potent way of stimulating economic development and increasing the standard of living within a country. However, policies should be instituted whereby FDI is beneficial to both the foreign investor and the host country as well.
+
+
 ### *AIM*
 
 The aim of this project is to analyze sector-wise Foreign Direct Investment (FDI) in India from 2011-12 to 2022-23 to uncover key trends and factors influencing FDI inflows. The study will develop and evaluate forecasting models such as ARIMA, SARIMA, Prophet, and XGBoost to predict future FDI trends, comparing their accuracy using metrics like R², MSE, and MAE. Additionally, sectors will be segmented using K-Means Clustering to provide strategic insights, and the predictive accuracy of Random Forest and Gradient Boosting Regressors will be compared to identify the most reliable model for forecasting FDI. The findings aim to support policymakers and investors in making informed decisions to enhance FDI inflows into India.
